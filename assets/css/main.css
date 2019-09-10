@@ -2793,6 +2793,7 @@ input, select, textarea {
 			background-image: url('../../images/logo_alertfuel_plus.png');
 			background-position: center;
 			background-repeat: no-repeat;
+			background-size: contain;
 			border-radius: 100px;
 			cursor: default;
 			display: inline-block;
